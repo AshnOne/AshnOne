@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AshnOne/AshnOne/output/snake.svg" alt="Snake animation" />
+
 
 ###
